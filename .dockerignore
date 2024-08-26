@@ -1,0 +1,33 @@
+#Git
+.git
+.gitignore
+
+#docker
+.docker
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Django
+db.sqlite3
+media/
+.env
+
+# Environment
+venv/
+.env/
+
+# VSCode
+.vscode/
+
+# Python
+app/pycache
+app//pycache app///—pycache. app////_
+pycache
+/
+• env/
+• venv/
+venv/l
